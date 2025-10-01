@@ -1,0 +1,17 @@
+.chip {
+    border-radius: 12px;
+    padding: 4px 12px;
+    margin: 2px;
+    border: 1px solid #3498db;
+    font-size: 0.9em;
+    background-color: rgba(52, 152, 219, 0.1);
+}
+
+.chip:hover {
+    background-color: rgba(52, 152, 219, 0.3);
+}
+
+.etiqueta-item {
+    padding: 8px;
+    border-bottom: 1px solid #e0e0e0;
+}
